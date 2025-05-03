@@ -45,22 +45,8 @@
   - Combine with external tools (e.g., RAG for fact-checking).
 
 ## 4. Practical Exercises in Prompt Design and Optimization
-- **Exercise 1: Basic Prompt Design**:
-  - Task: Write a prompt to generate a 100-word blog intro about AI ethics.
-  - Example Prompt: "Write a 100-word introduction for a blog post on AI ethics, targeting a general audience. Use a neutral tone and include one real-world example."
-- **Exercise 2: Role-Based Prompting**:
-  - Task: Create a prompt for a model to act as a teacher explaining a concept.
-  - Example Prompt: "As a high school science teacher, explain photosynthesis in 150 words using simple terms and one analogy."
-- **Exercise 3: Iterative Refinement**:
-  - Task: Start with a vague prompt (e.g., "Write about AI"), test it, and refine it to improve output specificity and quality.
-  - Steps:
-    1. Test initial prompt and note issues (e.g., too broad, off-topic).
-    2. Add constraints (e.g., "Write a 200-word summary of AI applications in healthcare").
-    3. Compare outputs and refine further if needed.
-- **Exercise 4: Handling Limitations**:
-  - Task: Design a prompt to avoid hallucination in a factual response.
-  - Example Prompt: "Provide a list of three verified AI milestones from 2020-2023, citing credible sources like IEEE or Nature."
-
+- For Practical design follow the given .ipynb file.
+  
 ## Key Takeaways
 - Effective prompt engineering requires clarity, context, and iterative testing.
 - Understanding model limitations helps design prompts that minimize errors.
