@@ -45,7 +45,7 @@
   - Combine with external tools (e.g., RAG for fact-checking).
 
 ## 4. Practical Exercises in Prompt Design and Optimization
-- For Practical design follow the given .ipynb file.
+* For Practical design follow the given .ipynb file.
   
 ## Key Takeaways
 - Effective prompt engineering requires clarity, context, and iterative testing.
