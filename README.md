@@ -1,5 +1,7 @@
 # Course Title: Advanced AI: From Prompt Engineering to Autonomous AI Systems
 
+![](./path/to/advanceai.png)
+
 ## Module 1: Prompt Engineering Essentials
 - Introduction to prompt engineering
 - Techniques for crafting effective prompts
